@@ -3,7 +3,8 @@ body {
   margin: 0;
   padding: 0;
 
-  background: var(--background);
+  /* background: var(--background); */
+  background: var(--white);
 
   color: var(--black);
 
@@ -22,6 +23,7 @@ a {
 
 :root {
   --black: #3B434E;
+  --gray: #E2E2E2;
   --gray-light: #EBEBEB;
   --white: white;
   --primary: #7653FC;
